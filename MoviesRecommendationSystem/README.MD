@@ -103,7 +103,7 @@ To create a recommendation function, the following steps will be taken:
 5. Return the titles of the movies corresponding to the indices of the top 10 elements.
 More details about Content Based Filtering can be found [here.](https://github.com/iqrabismii/MoviestRecommendationSystem/blob/main/MoviesRecommendationSystem/MoviesRecommendationSystem.ipynb)
 
-__Content Based Filtering__ using __RAKE-NLTK__ and __KNN__ is provided in this [notebook.](https://github.com/iqrabismii/MoviestRecommendationSystem/blob/main/MoviesRecommendationSystem/ContentBasedMoviesRecommendationSystemUsingKNN.ipynb)
+__Content Based Filtering__ using __RAKE-NLTK__ (which is used to extract keywords from text, particularly for tasks such as text summarization, text classification and text search)  and __KNN__ is provided in this [notebook.](https://github.com/iqrabismii/MoviestRecommendationSystem/blob/main/MoviesRecommendationSystem/ContentBasedMoviesRecommendationSystemUsingKNN.ipynb)
 
 ## Collaborative Based Filtering based on  similar users
 
